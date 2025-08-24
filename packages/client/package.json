@@ -54,7 +54,7 @@
     "@vueuse/router": "^13.5.0",
     "date-fns": "^4.1.0",
     "tailwindcss": "^4.1.11",
-    "three": "^0.178.0",
+    "three": "^0.179.1",
     "typescript": "^5.8.3",
     "unplugin-auto-import": "^19.3.0",
     "unplugin-icons": "^22.1.0",
