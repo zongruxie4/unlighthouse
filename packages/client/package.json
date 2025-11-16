@@ -51,7 +51,7 @@
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/compiler-sfc": "^3.5.17",
     "@vueuse/core": "^13.5.0",
-    "@vueuse/router": "^13.5.0",
+    "@vueuse/router": "^14.0.0",
     "date-fns": "^4.1.0",
     "tailwindcss": "^4.1.11",
     "three": "^0.179.1",
