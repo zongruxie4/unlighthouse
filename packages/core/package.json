@@ -71,7 +71,7 @@
     "object-hash": "^3.0.0",
     "ofetch": "^1.4.1",
     "pathe": "^2.0.3",
-    "puppeteer-cluster": "^0.24.0",
+    "puppeteer-cluster": "^0.25.0",
     "puppeteer-core": "^24.14.0",
     "radix3": "^1.1.2",
     "regexparam": "^3.0.0",
