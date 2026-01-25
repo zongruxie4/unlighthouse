@@ -32,7 +32,7 @@
     "defu": "^6.1.4",
     "fuse.js": "^7.1.0",
     "lightweight-charts": "^5.0.8",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "ufo": "^1.6.1",
     "vue": "^3.5.17"
   },
